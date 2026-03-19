@@ -19,8 +19,8 @@ Please treat the current repository as an **early research draft release**, not 
 
 The current English draft can be found here:
 
-- PDF: `gpt_gen_demo/paper_demo_en.pdf`
-- LaTeX source: `gpt_gen_demo/paper_demo_en.tex`
+- PDF: `sysprior/paper_demo_en.pdf`
+- LaTeX source: `sysprior/paper_demo_en.tex`
 
 This draft is still under active revision. Experimental details, wording, figures, and references may be updated in later versions.
 
